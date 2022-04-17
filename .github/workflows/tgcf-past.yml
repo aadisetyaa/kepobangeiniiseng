@@ -1,6 +1,7 @@
 name: tgcf-past
 
 on:
+ workflow_dispatch:
   schedule:
      - cron: 0 * * * *
     # run on the first day of every month
@@ -26,5 +27,5 @@ jobs:
         uses: actions-js/push@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: main
+          branch: kepoooo
           message: push files changed
