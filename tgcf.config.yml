@@ -3,7 +3,7 @@ forwards:
 - source: https://t.me/sexyboy2019_TH
   dest:
   - -1001753504711
-  offset: 8018
+  offset: 8019
   end: 140063
 show_forwarded_from: false
 live:
