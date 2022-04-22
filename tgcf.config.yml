@@ -1,8 +1,8 @@
 admins: []
 forwards:
-- source: -1001631273213
+- source: -1001753504711
   dest:
-  - -1001753504711
+  - -1001631273213
 
 show_forwarded_from: true
 
