@@ -1,11 +1,11 @@
 admins: []
 forwards:
-- source: https://t.me/sexyboy2019_TH
+- source: -1001631273213
   dest:
   - -1001753504711
-  offset: 22288
-  end: 140063
-show_forwarded_from: false
+
+show_forwarded_from: true
+
 live:
   delete_sync: false
   delete_on_edit: null
