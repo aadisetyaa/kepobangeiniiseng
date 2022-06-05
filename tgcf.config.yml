@@ -1,16 +1,15 @@
 admins: []
 forwards:
 - source: -1001742863201
-  dest: 
- - -1001631273213
-
+  dest:
+  - -1001631273213
+  
 show_forwarded_from: false
-
 live:
   delete_sync: false
   delete_on_edit: null
 past:
-  delay: 2.0
+  delay: 6.0
 plugins:
   filter:
     text:
